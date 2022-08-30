@@ -20,6 +20,6 @@ This is a tic tac toe android app wtih Android Studio in Java. I created all obj
 
 ## Demo
 
-There's a delay on video when uploading it to github. You can go [here](https://youtube.com/shorts/did11Cp_nmY) and check the non-delay version. (Sound volume is way less than I heared on youtube 😢)
+There's a delay on video when uploading it to github. You can go [here](https://youtube.com/shorts/did11Cp_nmY) and check the non-delay version. (Sound volume on youtube is way less than I heared on actual device 😢)
 
 https://user-images.githubusercontent.com/83580034/187508352-665add85-9755-4e28-a446-126125c18441.mov
